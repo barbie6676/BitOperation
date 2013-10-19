@@ -12,7 +12,7 @@ public int singleNumber(int[] A) {
         return ret^0;
     }
 
-//in array, every number repeat three times but one, return that number  
+//in array, every number repeat three times but one repeat only once, return that number  
 
 public int singleNumber(int[] A) {
     // Note: The Solution object is instantiated only once and is reused by each test case.
